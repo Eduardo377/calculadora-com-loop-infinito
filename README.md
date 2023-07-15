@@ -1,8 +1,15 @@
 # Calculadora
 
-Este é um programa simples de calculadora que permite realizar operações de soma, subtração, multiplicação e divisão.
+Este é um programa simples de calculadora que permite realizar operações de soma, subtração, multiplicação e divisão em loop infinito até o usuário decida parar.
 
-## Como usar
+## Como usar no Google Colab
+
+1. Acesse o [Google Colab](https://colab.research.google.com/).
+2. Crie um novo notebook ou abra um existente.
+3. Copie e cole o código do programa no notebook.
+4. Execute o notebook (clique em "Runtime" e depois em "Run all").
+
+## Como usar localmente
 
 1. Clone o repositório:
 
