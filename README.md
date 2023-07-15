@@ -10,7 +10,7 @@ Este é um programa simples de calculadora que permite realizar operações de s
    git clone git@github.com:Eduardo377/calculadora-com-loop-infinito.git
    ```
 
-1.1.    ou faça o download dos arquivos:
+    1.1. ou faça o download dos arquivos:
 
    ```bash
    https://github.com/Eduardo377/calculadora-com-loop-infinito/archive/refs/heads/main.zip
