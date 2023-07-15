@@ -13,9 +13,7 @@ Este é um programa simples de calculadora que permite realizar operações de s
 1.1.    ou faça o download dos arquivos:
 
    ```bash
-
-    https://github.com/Eduardo377/calculadora-com-loop-infinito/archive/refs/heads/main.zip
-
+   https://github.com/Eduardo377/calculadora-com-loop-infinito/archive/refs/heads/main.zip
    ```
 
 2. Abra um terminal ou prompt de comando e navegue até o diretório onde os arquivos estão localizados.
